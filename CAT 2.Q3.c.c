@@ -3,7 +3,7 @@ int main(){
 	float hoursworked;
 	float hourlywage;
 	float grosspay;
-	float overtimepay;20
+	float overtimepay;
 	float taxes;
 	float netpay;
 		printf("enter hoursworked:");
